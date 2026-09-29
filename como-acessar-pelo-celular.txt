@@ -1,0 +1,13 @@
+Como ver o programa pelo celular?
+
+1 - O celular deve estar conectado na mesma do computador
+2 - Não usar os dados móveis
+3 - Pegar o endereço da máquina no CMD (Endereço IPv4)
+4 - Acessar o endereço da máquina no navegador
+
+Endereço da máquina: 192.168.1.74
+
+EXEMPLO:
+Endereço padrão do liveserver: http://127.0.0.1:5500/03-links.html
+
+Novo endereço: http://192.168.1.74:5500/03-links.html
